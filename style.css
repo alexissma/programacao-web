@@ -14,5 +14,7 @@ p {
     margin: 20px 40px 30px 10px;
 }
 #paragrafos {
-
+    background-color: aqua;
+    color: green;
+    padding: 50x;;
 }
